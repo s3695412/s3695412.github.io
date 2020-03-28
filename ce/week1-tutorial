@@ -1,0 +1,40 @@
+Activity 1: Writing copy for your first web page
+-Discuss with two friends about details of my web page
+
+Activity 2: Examine the Elements of a Webpage
+_On the webpage above, identify the following web elements:
+>>> Headings:
+    h1 (HTML Introduction)
+    h2 (What is HTML?)
+    h2 (A Simple HTML Document)
+>>> Paragraph: (HTML is the standard markup language for creating Web pages.)
+>>> Anchors and Hyperlink: Previous; Next Chapter
+_What is the difference between an unordered list(<ul>) and list items(<li>). Can you see examples of each on 
+the webpage above?
+>>> ul creates structure of the list, which contains the li (list items)
+
+
+Activity 3: Evolution of the HTML standard
+-What page elements were present in the very first versions of HTML?
+>>> head, body, nextID, headings, anchors, paragraphs, list, list items
+
+-What form did the first web documents take?
+>>> there was no form used
+
+-HTML3 and HTML4 standards were developed at a time that was seen as being very chaotic. Name some reasons for 
+why this was and state what new elements we saw introduced at this time?
+>>> Reasons: code developed for one browser would not always work in another browser. Browser software developers were making their own rules and not following rules set down by the W3C.
+>>> New elements: img, table, blink, marquee
+
+-The XHTML standard is described as being very strict, quite unlike HTML3 and 4. What rules did XHTML impose on developers?
+>>>All tags must be lowercase; Tags must be closed, even the empty ones; Tags must be nested correctly; Attributes need a value in quotes, even when it is clear what they mean; Attributes need a value, even when the attribute makes it clear what is required
+
+-How did these changes allow XHTML documents to be more accessible across a wider range of devices: eg PC's, early WAP enabled mobile phones, screen readers for the visually impaired etc.?
+>>> Because XHTML was a reformulation of HTML4 in XML and was designed to allow web content on a wide range of less sophisticated devices, not just on personal computers.
+
+-Discuss the benefits and improvements contained in the HTML5 standard.
+>>> HTML5 adopted the more sensible strategies found in previous HTML standards (eg simpler doctype, lowercase tags, correct nesting of tags), but is not constrained by the overtly strict XML syntax found in XHTML
+
+-Finally, HTML5 has brought back many (but not all) of HTML4's more relaxed coding rules. What are they and why are the strict XML syntax rules of XHTML no longer needed today?
+>>> Empty tags don't need a closing slash; Values with no spaces don't need quotes; Obvious" attributes can be minimised
+>>> Because they are not relevant anymore
